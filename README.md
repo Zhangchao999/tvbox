@@ -23,6 +23,7 @@ tip：收集自网络，不保证可用性，需要自己测试，iptv源自己�
 1.https://www.juwanhezi.com/other/jsonlist
 
 # 4.影视仓多仓源接口
+### 1-3 为原作者地址
 1.gitlab： https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
 
 2.csdn的gitcode： https://raw.gitcode.com/noimank/tvbox/raw/main/tvboxmuti.json
