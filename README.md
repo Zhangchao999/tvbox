@@ -30,7 +30,7 @@ tip：收集自网络，不保证可用性，需要自己测试，iptv源自己�
 
 3.GitHub加速：https://gh.three2all.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json
 
-4.GitHub加速：https://gh.three2all.com/https://github.com/Zhangchao999/tvbox/blob/modify/tvboxmuti.json
+4.GitHub加速：https://gh.three2all.com/https://raw.githubusercontent.com/Zhangchao999/tvbox/modify/tvboxmuti.json
 
 # 5.iptv源
 
